@@ -3,7 +3,7 @@ email:              m.dekker@uxstudio.nl
 description:        De website voor alles over de brekkenrace
 author:             M.Dekker
 baseurl:            ""
-url:                "http://leunis.github.io"
+url:                "http://leunis.github.io/brekkenrace"
 permalink:          none
 
 
