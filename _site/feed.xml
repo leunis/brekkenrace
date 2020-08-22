@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-22T08:05:46+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Brekkenrace</title><subtitle>De website voor alles over de brekkenrace</subtitle><author><name>M.Dekker</name></author><entry><title type="html">Uitslagen 2020</title><link href="http://localhost:4000/uitslagen2020.html" rel="alternate" type="text/html" title="Uitslagen 2020" /><published>2020-08-17T13:30:00+02:00</published><updated>2020-08-17T13:30:00+02:00</updated><id>http://localhost:4000/uitslagen2020</id><content type="html" xml:base="http://localhost:4000/uitslagen2020.html">&lt;h2 class=&quot;section-heading&quot;&gt; Optimist&lt;/h2&gt;
+&lt;table&gt;
+	&lt;tr&gt;
+		&lt;th&gt;Naam schipper&lt;/th&gt;
+		&lt;th&gt;Race 1&lt;/th&gt;
+		&lt;th&gt;Race 2&lt;/th&gt;
+		&lt;th&gt;Race 3&lt;/th&gt;
+		&lt;th&gt;Eindscore&lt;/th&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Seppe van Solkema&lt;/td&gt;
+		&lt;td &gt;1&lt;/td&gt;
+		&lt;td &gt;2&lt;/td&gt;
+		&lt;td &gt;1&lt;/td&gt;
+		&lt;td&gt;4&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Harmen Hoekstra&lt;/td&gt;
+		&lt;td&gt;3&lt;/td&gt;
+		&lt;td&gt;3&lt;/td&gt;
+		&lt;td&gt;4&lt;/td&gt;
+		&lt;td&gt;10&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Jouke Pricker&lt;/td&gt;
+		&lt;td&gt;5&lt;/td&gt;
+		&lt;td&gt;4&lt;/td&gt;
+		&lt;td&gt;2&lt;/td&gt;
+		&lt;td&gt;11&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Toon&lt;/td&gt;
+		&lt;td&gt;7&lt;/td&gt;
+		&lt;td&gt;1&lt;/td&gt;
+		&lt;td&gt;3&lt;/td&gt;
+		&lt;td&gt;11&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Jikke Schraffordt&lt;/td&gt;
+		&lt;td&gt;2&lt;/td&gt;
+		&lt;td&gt;5&lt;/td&gt;
+		&lt;td&gt;7&lt;/td&gt;
+		&lt;td&gt;14&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Meike Sutorius&lt;/td&gt;
+		&lt;td&gt;6&lt;/td&gt;
+		&lt;td&gt;6&lt;/td&gt;
+		&lt;td&gt;5&lt;/td&gt;
+		&lt;td&gt;17&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Roosmarijn Dekker&lt;/td&gt;
+		&lt;td&gt;4&lt;/td&gt;
+		&lt;td&gt;8&lt;/td&gt;
+		&lt;td&gt;8&lt;/td&gt;
+		&lt;td&gt;20&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Jayden desVignes&lt;/td&gt;
+		&lt;td&gt;9&lt;/td&gt;
+		&lt;td&gt;7&lt;/td&gt;
+		&lt;td&gt;6&lt;/td&gt;
+		&lt;td&gt;22&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Jelle Monderman&lt;/td&gt;
+		&lt;td&gt;8&lt;/td&gt;
+		&lt;td&gt;9&lt;/td&gt;
+		&lt;td&gt;9&lt;/td&gt;
+		&lt;td&gt;26&lt;/td&gt;
+	&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt; Jeugd eenmans klasse&lt;/h2&gt;
+&lt;table&gt;
+&lt;tr&gt;
+	&lt;th&gt;Naam schipper&lt;/th&gt;
+	&lt;th&gt;Race 1&lt;/th&gt;
+	&lt;th&gt;Race 2&lt;/th&gt;
+	&lt;th&gt;Race 3&lt;/th&gt;
+	&lt;th&gt;Eindscore&lt;/th&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+	&lt;td&gt;Jelmer &amp; Willem&lt;/td&gt;
+	&lt;td&gt;3&lt;/td&gt;
+	&lt;td&gt;1&lt;/td&gt;
+	&lt;td&gt;2&lt;/td&gt;
+	&lt;td&gt;6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;Meike Kegel&lt;/td&gt;
+	&lt;td&gt;2&lt;/td&gt;
+	&lt;td&gt;2&lt;/td&gt;
+	&lt;td&gt;4&lt;/td&gt;
+	&lt;td&gt;8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;Sjoerd van der Zee&lt;/td&gt;
+	&lt;td&gt;1&lt;/td&gt;
+	&lt;td&gt;4&lt;/td&gt;
+	&lt;td&gt;3&lt;/td&gt;
+	&lt;td&gt;8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;Tamara Nachbar&lt;/td&gt;
+	&lt;td&gt;5&lt;/td&gt;
+	&lt;td&gt;3&lt;/td&gt;
+	&lt;td&gt;1&lt;/td&gt;
+	&lt;td&gt;9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;Tessa Reuzenaar&lt;/td&gt;
+	&lt;td&gt;4&lt;/td&gt;
+	&lt;td&gt;5&lt;/td&gt;
+	&lt;td&gt;5&lt;/td&gt;
+	&lt;td&gt;14&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;Likje vd Tempel&lt;/td&gt;
+	&lt;td&gt;6&lt;/td&gt;
+	&lt;td&gt;7&lt;/td&gt;
+	&lt;td&gt;6&lt;/td&gt;
+	&lt;td&gt;19&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;Elise, Suus &amp; Bente&lt;/td&gt;
+	&lt;td&gt;7&lt;/td&gt;
+	&lt;td&gt;6&lt;/td&gt;
+	&lt;td&gt;7&lt;/td&gt;
+	&lt;td&gt;20&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;Wessel Wassens &amp; Deon Wirjo&lt;/td&gt;
+	&lt;td&gt;8&lt;/td&gt;
+	&lt;td&gt;4&lt;/td&gt;
+	&lt;td&gt;8&lt;/td&gt;
+	&lt;td&gt;20&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;Coen Kieviet&lt;/td&gt;
+	&lt;td&gt;0&lt;/td&gt;
+	&lt;td&gt;4&lt;/td&gt;
+	&lt;td&gt;9&lt;/td&gt;
+	&lt;td&gt;13&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;Koen Boon&lt;/td&gt;
+	&lt;td&gt;0&lt;/td&gt;
+	&lt;td&gt;4&lt;/td&gt;
+	&lt;td&gt;10&lt;/td&gt;
+	&lt;td&gt;14&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;Foukje vd Tempel&lt;/td&gt;
+	&lt;td&gt;0&lt;/td&gt;
+	&lt;td&gt;4&lt;/td&gt;
+	&lt;td&gt;11&lt;/td&gt;
+	&lt;td&gt;15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt; Volwassenen eenmans klasse&lt;/h2&gt;
+&lt;table&gt;
+&lt;tr&gt;
+	&lt;th&gt;Naam schipper&lt;/th&gt;
+	&lt;th&gt;Race 1&lt;/th&gt;
+	&lt;th&gt;Race 2&lt;/th&gt;
+	&lt;th&gt;Race 3&lt;/th&gt;
+	&lt;th&gt;Eindscore&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;Jost Franzen&lt;/td&gt;
+	&lt;td&gt;1&lt;/td&gt;
+	&lt;td&gt;3&lt;/td&gt;
+	&lt;td&gt;1&lt;/td&gt;
+	&lt;td&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;Emma Nachbar&lt;/td&gt;
+	&lt;td&gt;2&lt;/td&gt;
+	&lt;td&gt;1&lt;/td&gt;
+	&lt;td&gt;2&lt;/td&gt;
+	&lt;td&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;Djoeke Middendorp&lt;/td&gt;
+	&lt;td&gt;4&lt;/td&gt;
+	&lt;td&gt;2&lt;/td&gt;
+	&lt;td&gt;3&lt;/td&gt;
+	&lt;td&gt;9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;Hessel Middendorp&lt;/td&gt;
+	&lt;td&gt;3&lt;/td&gt;
+	&lt;td&gt;4&lt;/td&gt;
+	&lt;td&gt;4&lt;/td&gt;
+	&lt;td&gt;11&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;Bart Oude Wolbers&lt;/td&gt;
+	&lt;td&gt;5&lt;/td&gt;
+	&lt;td&gt;6&lt;/td&gt;
+	&lt;td&gt;5&lt;/td&gt;
+	&lt;td&gt;16&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;Peter Meijer&lt;/td&gt;
+	&lt;td&gt;6&lt;/td&gt;
+	&lt;td&gt;5&lt;/td&gt;
+	&lt;td&gt;6&lt;/td&gt;
+	&lt;td&gt;17&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;Roelina Dijk&lt;/td&gt;
+	&lt;td&gt;7&lt;/td&gt;
+	&lt;td&gt;7&lt;/td&gt;
+	&lt;td&gt;8&lt;/td&gt;
+	&lt;td&gt;22&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;Vader Kievit&lt;/td&gt;
+	&lt;td&gt;8&lt;/td&gt;
+	&lt;td&gt;8&lt;/td&gt;
+	&lt;td&gt;7&lt;/td&gt;
+	&lt;td&gt;23&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;Oscar Sutorius&lt;/td&gt;
+	&lt;td&gt;9&lt;/td&gt;
+	&lt;td&gt;9&lt;/td&gt;
+	&lt;td&gt;9&lt;/td&gt;
+	&lt;td&gt;27&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;Leonard Monderman&lt;/td&gt;
+	&lt;td&gt;10&lt;/td&gt;
+	&lt;td&gt;10&lt;/td&gt;
+	&lt;td&gt;10&lt;/td&gt;
+	&lt;td&gt;31&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;Lenie Janssen&lt;/td&gt;
+	&lt;td&gt;11&lt;/td&gt;
+	&lt;td&gt;11&lt;/td&gt;
+	&lt;td&gt;10&lt;/td&gt;
+	&lt;td&gt;32&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt; Open klasse&lt;/h2&gt;
+&lt;table&gt;
+&lt;tr&gt;
+	&lt;th&gt;Naam schipper&lt;/th&gt;
+	&lt;th&gt;Race 1&lt;/th&gt;
+	&lt;th&gt;Race 2&lt;/th&gt;
+	&lt;th&gt;Race 3&lt;/th&gt;
+	&lt;th&gt;Eindscore&lt;/th&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+	&lt;td&gt;Anne &amp; Peter&lt;/td&gt;
+	&lt;td&gt;1&lt;/td&gt;
+	&lt;td&gt;1&lt;/td&gt;
+	&lt;td&gt;1&lt;/td&gt;
+	&lt;td&gt;3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;Jim &amp; Auke Middendorp&lt;/td&gt;
+	&lt;td&gt;2&lt;/td&gt;
+	&lt;td&gt;4&lt;/td&gt;
+	&lt;td&gt;3&lt;/td&gt;
+	&lt;td&gt;9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;Julie van de Tempel&lt;/td&gt;
+	&lt;td&gt;8&lt;/td&gt;
+	&lt;td&gt;5&lt;/td&gt;
+	&lt;td&gt;2&lt;/td&gt;
+	&lt;td&gt;15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;Ruurd Abma
+&lt;/td&gt;
+	&lt;td&gt;7&lt;/td&gt;
+	&lt;td&gt;2&lt;/td&gt;
+	&lt;td&gt;6&lt;/td&gt;
+	&lt;td&gt;15&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+	&lt;td&gt;van Langen&lt;/td&gt;
+	&lt;td&gt;3&lt;/td&gt;
+	&lt;td&gt;7&lt;/td&gt;
+	&lt;td&gt;5&lt;/td&gt;
+	&lt;td&gt;15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;Eric Pot &amp; Leonard van Bragt&lt;/td&gt;
+	&lt;td&gt;5&lt;/td&gt;
+	&lt;td&gt;3&lt;/td&gt;
+	&lt;td&gt;7&lt;/td&gt;
+	&lt;td&gt;15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;Wisse van der Valk&lt;/td&gt;
+	&lt;td&gt;6&lt;/td&gt;
+	&lt;td&gt;6&lt;/td&gt;
+	&lt;td&gt;4&lt;/td&gt;
+	&lt;td&gt;16&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;Henk Booten&lt;/td&gt;
+	&lt;td&gt;4&lt;/td&gt;
+	&lt;td&gt;10&lt;/td&gt;
+	&lt;td&gt;8&lt;/td&gt;
+	&lt;td&gt;22&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;Evelyn Brakema &amp; Oscar&lt;/td&gt;
+	&lt;td&gt;9&lt;/td&gt;
+	&lt;td&gt;8&lt;/td&gt;
+	&lt;td&gt;11&lt;/td&gt;
+	&lt;td&gt;28&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;van Hemel &amp; Feltman&lt;/td&gt;
+	&lt;td&gt;11&lt;/td&gt;
+	&lt;td&gt;11&lt;/td&gt;
+	&lt;td&gt;9&lt;/td&gt;
+	&lt;td&gt;31&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+	&lt;td&gt;Oscar &amp; Jibbe Sutorius&lt;/td&gt;
+	&lt;td&gt;10&lt;/td&gt;
+	&lt;td&gt;12&lt;/td&gt;
+	&lt;td&gt;10&lt;/td&gt;
+	&lt;td&gt;32&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;Sophie Scheers&lt;/td&gt;
+	&lt;td&gt;14&lt;/td&gt;
+	&lt;td&gt;9&lt;/td&gt;
+	&lt;td&gt;13&lt;/td&gt;
+	&lt;td&gt;36&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;Jan Wolke&lt;/td&gt;
+	&lt;td&gt;12&lt;/td&gt;
+	&lt;td&gt;14&lt;/td&gt;
+	&lt;td&gt;12&lt;/td&gt;
+	&lt;td&gt;38&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;Mike van Boldrik&lt;/td&gt;
+	&lt;td&gt;15&lt;/td&gt;
+	&lt;td&gt;13&lt;/td&gt;
+	&lt;td&gt;14&lt;/td&gt;
+	&lt;td&gt;42&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;Patrick Kievit&lt;/td&gt;
+	&lt;td&gt;13&lt;/td&gt;
+	&lt;td&gt;16&lt;/td&gt;
+	&lt;td&gt;17&lt;/td&gt;
+	&lt;td&gt;46&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;Mirthe Oosterhuis &amp; vader
+&lt;/td&gt;
+	&lt;td&gt;16&lt;/td&gt;
+	&lt;td&gt;15&lt;/td&gt;
+	&lt;td&gt;15&lt;/td&gt;
+	&lt;td&gt;46&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;Ronald Verheijen&lt;/td&gt;
+	&lt;td&gt;17&lt;/td&gt;
+	&lt;td&gt;17&lt;/td&gt;
+	&lt;td&gt;16&lt;/td&gt;
+	&lt;td&gt;50&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;</content><author><name>M.Dekker</name></author><summary type="html">Optimist Naam schipper Race 1 Race 2 Race 3 Eindscore Seppe van Solkema 1 2 1 4 Harmen Hoekstra 3 3 4 10 Jouke Pricker 5 4 2 11 Toon 7 1 3 11 Jikke Schraffordt 2 5 7 14 Meike Sutorius 6 6 5 17 Roosmarijn Dekker 4 8 8 20 Jayden desVignes 9 7 6 22 Jelle Monderman 8 9 9 26</summary></entry><entry><title type="html">Brekkenrace 2020</title><link href="http://localhost:4000/brekkenrace.html" rel="alternate" type="text/html" title="Brekkenrace 2020" /><published>2020-07-27T00:45:13+02:00</published><updated>2020-07-27T00:45:13+02:00</updated><id>http://localhost:4000/brekkenrace</id><content type="html" xml:base="http://localhost:4000/brekkenrace.html">&lt;h2 class=&quot;section-heading&quot;&gt;
+  Beste wedstrijdzeiler,
+&lt;/h2&gt;
+
+&lt;p&gt;Welkom bij de Brekkenrace, de traditionele zeilwedstrijd op de Oudegaaster Brekken georganiseerd vanaf camping de
+  Bearshoeke.
+  Dit jaar wordt er in vier klassen gevaren, de Open klasse, de Jeugd klasse eenmansboot, de Volwassenen klasse
+  eenmansboot en de Optimisten klasse.&lt;/p&gt;
+
+&lt;p&gt;
+  Zowel in de Open klasse als in de eenmansboot klasse wordt gevaren met een handicap systeem: de “rating Brekkenrace”.
+  Iedere boot die op de lijst voorkomt met de daarbij horende tuigage kan aan de wedstrijden deelnemen. De ratings staan
+  onder de menuknop rating op de homepage van www.brekkenrace.nl.
+&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Deelname aan de Optimisten klasse staat open voor kinderen tot en met 11 jaar;&lt;/li&gt;
+  &lt;li&gt;Deelname aan de Jeugd eenmansboot staat open voor jongeren van 12 t/m 17 jaar.&lt;/li&gt;
+  &lt;li&gt;Deelname aan de Volwassenen eenmansboot staat open voor 18 jaar ouder;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;
+  Deelname is alleen mogelijk met een boottype dat is opgenomen in de rating van de Brekkenrace. Daarnaast moet ieder
+  schip voor de wedstrijdleiding goed herkenbaar zijn door een zeilnummer of duidelijk leesbare bootnaam.
+&lt;/p&gt;
+
+&lt;p&gt;
+  Mocht je twijfelen over in welke klasse je mee kan doen, overleg dan even met de wedstrijdleiding. In overleg met de
+  wedstrijdleiding wordt dan bepaald in welke klasse je het best kan starten. Dit is afhankelijk van type boot en
+  leeftijd van de stuurman/vrouw.
+&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;
+  De optimisten klasse
+&lt;/h2&gt;
+&lt;p&gt;
+  Voor de optimisten wordt, afhankelijk van de windrichting, een kleine wedstrijdbaan uitgezet zo dicht als mogelijk bij
+  het strandje van de camping. De optimisten varen 2 wedstrijdjes.
+&lt;/p&gt;
+
+
+&lt;h2 class=&quot;section-heading&quot;&gt;
+  Eenmansboot, jeugd en volwassenen
+&lt;/h2&gt;
+&lt;p&gt;
+  Afhankelijk van de wind wordt er een wedstrijd baan uitgezet op de Brekken. Voor deze klassen bestaat de wedstrijd uit
+  3 wedstrijden van 1 ronde.
+&lt;/p&gt;
+
+
+&lt;h2 class=&quot;section-heading&quot;&gt;
+  Open klasse
+&lt;/h2&gt;
+&lt;p&gt;De open klasse bestaat uit 3 wedstrijden die bestaat uit 1 ronde om de boeien en een 3e ronde eventueel om het
+  “eiland”.
+  Afhankelijk van de richting en de kracht van de wind kan het te varen programma aangepast worden.&lt;/p&gt;
+
+&lt;p&gt;
+  We proberen de wedstrijdbaan zo dicht mogelijk bij de haveningang van de camping te leggen zodat de toeschouwers aan
+  de wal goed zicht hebben op het wedstrijdverloop. Voor de wedstrijd van de Optimisten wordt de baan verkleind.
+&lt;/p&gt;
+
+&lt;p&gt;
+  Bij slecht weer of te harde wind wordt de wedstrijd afgelast. Bij een verwachte windkracht van 5 bft (17 knts) of
+  hoger gaat de wedstrijd niet door. Op zaterdagochtend 8:00 uur wordt door de wedstrijdleiding bepaald of de wedstrijd
+  al dan niet door gaat.
+&lt;/p&gt;
+
+
+&lt;p&gt;
+  Zaterdagochtend is er voorafgaand aan de wedstrijden om 09:00 uur het verplichte palaver bij de Fûke. Tijdens het
+  palaver wordt de te varen route bekendgemaakt. Iedere deelnemer wordt hierbij verwacht om de laatste details en
+  eventuele vragen door te nemen.
+&lt;/p&gt;
+
+&lt;p&gt;
+  Voor de Optimisten is er om 13:00 uur een apart palaver bij de Fûke. Dan wordt de wedstrijdroute voor de optimisten
+  bekend gemaakt.
+&lt;/p&gt;
+
+
+&lt;p&gt;
+  De uitslagen worden om ongeveer 17:30 uur bekend gemaakt bij de Fûke. Voorafgaand daaraan is er gelegenheid om onder
+  het genot van een drankje en een hapje de ervaringen uit te wisselen.
+&lt;/p&gt;
+
+
+Je kunt je aanmelden op vrijdag 31 juli 2020 van 19:00 - 20:00 uur bij de Fûke. De kosten voor de eenmansboten en de
+openklasse zijn € 5,= per boot. Voor de optimistenklasse zijn de kosten € 2,= per boot.
+
+
+&lt;h2 class=&quot;section-heading&quot;&gt;
+  De tijdsplanning op de wedstrijddag is als volgt:
+  &lt;/h3&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;09.00 uur palaver Open Klasse en Eenmansboten&lt;/li&gt;
+    &lt;li&gt;10.00 uur start Eenmansboten jeugd&lt;/li&gt;
+    &lt;li&gt;11.30 uur start Eenmansboten volwassenen&lt;/li&gt;
+    &lt;li&gt;13:00 uur palaver Optimist&lt;/li&gt;
+    &lt;li&gt;13.30 uur start Optimist&lt;/li&gt;
+    &lt;li&gt;15.00 uur start Open klasse&lt;/li&gt;
+    &lt;li&gt;17:30 uur prijsuitreiking&lt;/li&gt;
+  &lt;/ul&gt;
+
+  De planning kan wijzigen. Hou het informatiebord bij de Fûke goed in de gaten.
+
+
+  &lt;p&gt;
+    Uiteraard zijn rond en tijdens de wedstrijd de bestaande maatregelen rond Covid-19 ook deze dag van kracht.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    Tot slot willen wij alle sponsoren en vrijwilligers enorm bedanken voor hun bijdrage en inzet. Mede hierdoor is het
+    mogelijk om er voor hopelijk iedereen weer een prachtige dag van te maken.
+  &lt;/p&gt;
+
+
+  &lt;h2 class=&quot;section-heading&quot;&gt;
+    De wedstrijdleiding
+  &lt;/h2&gt;
+
+  &lt;p&gt;Wedstrijdbepalingen Open Klasse en Eenmansboot Klasse&lt;/p&gt;
+
+  &lt;h3&gt;
+    Wedstrijdreglement
+  &lt;/h3&gt;
+  &lt;p&gt;
+    Het dragen van een zwemvest is voor alle wedstrijdklassen verplicht, ook voor de bemanning in de Open Klasse.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    Een boot en zijn eigenaar nemen deel aan de wedstrijd op basis van sportiviteit en eerlijk spel en onder eigen
+    verantwoordelijkheid. Het wedstrijdcomité kan daarom niet aansprakelijk gesteld worden voor geleden schade.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    Aan de hand van eigen constatering of naar aanleiding van protesten kan de wedstrijdleiding strafpunten, straftijd
+    toekennen of je diskwalificeren voor een wedstrijd.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    Als je een voorrangsfout maakt kun je een protest en straf door de wedstrijdleiding voorkomen door 2 strafrondjes te
+    varen. Daarbij moet je wel de voorrangsregels in acht nemen.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    Als je te vroeg bent gestart moet je terugvaren door de startlijn en opnieuw starten.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    Tijdens de wedstrijd, die voor ieder individueel schip duurt vanaf het voorbereidingssein (2 minuten sein) tot het
+    moment van finishen gelden de Standaard Wedstrijdbepalingen (SWB), Appendix S van het Watersportverbond.
+  &lt;/p&gt;
+
+  &lt;p&gt;Indien je om wat voor reden ook de wedstrijd staakt, meld je dat (of zorg je dat anderen dat melden) bij het
+    startschip.
+    Zorg dat je het telefoonnummer van het startschip hebt genoteerd en bij je hebt.&lt;/p&gt;
+
+
+  &lt;h2 class=&quot;section-heading&quot;&gt;
+    Startprocedure 2020
+  &lt;/h2&gt;
+
+  &lt;b&gt;Voorbereiding:&lt;/b&gt;
+  2 minuten voor de start 2 korte geluidssignalen en de rode vlag.
+
+  &lt;b&gt;Eén minuut sein:&lt;/b&gt;
+  1 kort geluidssignaal en de oranje vlag.
+
+  &lt;b&gt;Start:&lt;/b&gt;
+  1 lang geluidssignaal en de groene vlag.
+
+  Kort (ongeveer één minuut) na de finish van de laatste boot volgt het voorbereidingssein voor de volgende start.
+
+
+
+  &lt;h2 class=&quot;section-heading&quot;&gt;
+    Wedstrijdbepalingen Optimistenklasse
+  &lt;/h2&gt;
+
+  &lt;p&gt; Hoi schipper,
+
+  Als je nog niet zo vaak gezeild hebt, weet je misschien niet hoe dat allemaal gaat en welke spelregels er zijn. Dat is
+  helemaal geen probleem, want we vertellen je hier hoe het gaat en waar je aan moet denken.
+
+  Ook zijn er op het water boten van de organisatie die je zullen helpen als dat nodig is of als je daarom vraagt.
+
+  Je vader of moeder mag meevaren in je boot, maar dan kun je helaas geen prijs winnen, want dat zou niet eerlijk zijn.
+
+  Goed, dan nu eerst iets over waar de wedstrijd begint en waar je naar toe moet zeilen.&lt;/p&gt;
+
+
+  &lt;h3&gt;
+    De wedstrijdbaan
+  &lt;/h3&gt;
+
+  &lt;p&gt;
+    De wedstrijdbaan wordt tijdens het palaver om 13.00 uur bekend gemaakt.
+  &lt;/p&gt;
+
+
+  &lt;h3&gt;
+    Het starten
+  &lt;/h3&gt;
+  &lt;ul&gt;
+    &lt;li&gt;De starttijd is om 13:30 uur.&lt;/li&gt;
+    &lt;li&gt;Twee minuten voor de start wordt er twee keer op de toeter gedrukt. Denk erom dat je nu in de buurt zeilt van de
+      boeien, anders ben je straks te laat bij de startlijn. Vanaf dit moment roepen we regelmatig met een megafoon hoe
+      lang het nog duurt voor de start begint.&lt;/li&gt;
+    &lt;li&gt;Eén minuut voor de start wordt er één keer op de toeter gedrukt.&lt;/li&gt;
+    &lt;li&gt;De laatste 10 seconden tellen we even voor je af.&lt;/li&gt;
+    &lt;li&gt;Het startsein is een lange stoot op de toeter.&lt;/li&gt;
+  &lt;/ul&gt;
+
+
+  &lt;p&gt;
+    Je mag nu over de startlijn varen op weg naar de eerste boei. Iets later mag ook, maar dan wordt het moeilijker om
+    de
+    race te winnen.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    Als je per ongeluk te vroeg tussen de twee boeien door gevaren bent, keer je om en doe je het even opnieuw. Maar als
+    dat nodig is, roepen we je wel even terug.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    Nu is de wedstrijd begonnen…
+  &lt;/p&gt;
+
+
+  &lt;h2 class=&quot;section-heading&quot;&gt;
+    De regels
+  &lt;/h2&gt;
+  &lt;b style=&quot;color:red;&quot;&gt;Het dragen van een zwemvest is verplicht!&lt;/b&gt;
+
+  &lt;p&gt;Eigenlijk zijn er verder heel veel regels op het water, net als in het verkeer.
+    Die kunnen we hier niet allemaal vertellen.Maar de belangrijkste regel van allemaal moet je wel kennen en dat is dat
+    je altijd moet proberen om een aanvaring met een andere boot te voorkomen. Ook als je denkt (of zeker weet) dat je
+    voorrang hebt.&lt;/p&gt;
+
+
+  &lt;p&gt;
+    Als je deze regel goed gebruikt ben je al aardig op weg een goede schipper te worden en kan het eigenlijk niet mis
+    gaan.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    Je ouders zijn verantwoordelijk voor je reilen en zeilen en het wedstrijdcomité kan niet aansprakelijk worden
+    gesteld
+    voor eventuele schade.
+  &lt;/p&gt;
+
+
+  &lt;p&gt;
+    We wensen je een hele leuke wedstrijd toe.
+  &lt;/p&gt;
+  
+   &lt;blockquote class=&quot;blockquote&quot;&gt;
+  Contact: Voor meer info en eventuele vragen kunt u contact opnemen met de organisatie:
+      Jeroen Nachbar (campingplaats 64), Martijn Dekker (campingplaats 67)
+  &lt;/blockquote&gt;</content><author><name>M.Dekker</name></author><summary type="html">Beste wedstrijdzeiler,</summary></entry></feed>
