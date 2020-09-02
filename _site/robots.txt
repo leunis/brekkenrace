@@ -1,1 +1,1 @@
-Sitemap: http://brekkenrace.nl/sitemap.xml
+Sitemap: http://leunis.github.io/brekkenrace/sitemap.xml
