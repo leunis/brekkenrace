@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/brekkenrace.html</loc>
+<loc>http://localhost:4000/brekkenrace/brekkenrace.html</loc>
 <lastmod>2020-07-27T00:45:13+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/uitslagen2020.html</loc>
+<loc>http://localhost:4000/brekkenrace/uitslagen2020.html</loc>
 <lastmod>2020-08-17T13:30:00+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/about.html</loc>
+<loc>http://localhost:4000/brekkenrace/about.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/contact.html</loc>
+<loc>http://localhost:4000/brekkenrace/contact.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/posts/</loc>
+<loc>http://localhost:4000/brekkenrace/posts/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>http://localhost:4000/brekkenrace/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/rating.html</loc>
+<loc>http://localhost:4000/brekkenrace/rating.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/winnaars.html</loc>
+<loc>http://localhost:4000/brekkenrace/winnaars.html</loc>
 </url>
 </urlset>
