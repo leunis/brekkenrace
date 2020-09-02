@@ -7,8 +7,12 @@ background: '/img/bg-post.jpg'
 {% for post in paginator.posts %}
 
 <article class="post-preview">
+<<<<<<< HEAD
   <!-- <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}"> -->
   <a href="{{ post.url | absolute_url | replace: '//', '/' }}"></a>
+=======
+  <a href="{{ post.url | absolute_url }}">
+>>>>>>> 15c96c1b4e5c5311ba8f3139a9d85de1e36cffb4
     <h2 class="post-title">{{ post.title }}</h2>
     {% if post.subtitle %}
     <h3 class="post-subtitle">{{ post.subtitle }}</h3>
