@@ -2,7 +2,7 @@ title:              Brekkenrace
 email:              m.dekker@uxstudio.nl
 description:        De website voor alles over de brekkenrace
 author:             M.Dekker
-baseurl:            "brekkenrace"
+baseurl:            ""
 url:                "http://brekkenrace.nl"
 permalink:          none
 
