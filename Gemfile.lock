@@ -83,6 +83,7 @@ PLATFORMS
   x64-mingw32
   x86-mingw32
   x86-mswin32
+  x86_64-darwin-19
 
 DEPENDENCIES
   jekyll (>= 3.8.5)
@@ -93,4 +94,4 @@ DEPENDENCIES
   tzinfo-data
 
 BUNDLED WITH
-   2.1.4
+   2.2.1
