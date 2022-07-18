@@ -1,4 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-07-23T11:51:38+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Brekkenrace</title><subtitle>De website voor alles over de brekkenrace</subtitle><author><name>M.Dekker</name></author><entry><title type="html">Brekkenrace 2021</title><link href="http://localhost:4000/Brekkenrace2021.html" rel="alternate" type="text/html" title="Brekkenrace 2021" /><published>2021-07-12T14:00:00+02:00</published><updated>2021-07-12T14:00:00+02:00</updated><id>http://localhost:4000/Brekkenrace2021</id><content type="html" xml:base="http://localhost:4000/Brekkenrace2021.html">&lt;h2 class=&quot;section-heading&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://www.brekkenrace.nl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.brekkenrace.nl/" rel="alternate" type="text/html" /><updated>2022-07-18T09:08:58+02:00</updated><id>https://www.brekkenrace.nl/feed.xml</id><title type="html">Brekkenrace</title><subtitle>De website voor alles over de brekkenrace</subtitle><author><name>M.Dekker</name></author><entry><title type="html">Brekkenrace 2022</title><link href="https://www.brekkenrace.nl/Brekkenrace2022.html" rel="alternate" type="text/html" title="Brekkenrace 2022" /><published>2022-07-17T14:00:00+02:00</published><updated>2022-07-17T14:00:00+02:00</updated><id>https://www.brekkenrace.nl/Brekkenrace2022</id><content type="html" xml:base="https://www.brekkenrace.nl/Brekkenrace2022.html">&lt;h2 class=&quot;section-heading&quot;&gt;
+  Beste wedstrijdzeiler,
+&lt;/h2&gt;
+
+&lt;p&gt;Dit jaar wordt de Brekkenrace weer georganiseerd.&lt;/p&gt;
+
+&lt;p&gt;
+  6 augustus gaat het gebeuren. We gaan zeilen in de volgende klasses:&lt;/p&gt;
+  &lt;ul&gt;
+  &lt;li&gt;
+  Optimist (bij genoeg aanmelding)
+  &lt;/li&gt;
+    &lt;li&gt;
+  zwaardboot 
+  &lt;/li&gt;
+     &lt;li&gt;
+  Kielboot 
+  &lt;/li&gt;
+&lt;/ul&gt;
+  
+&lt;p&gt;Verdere details volgen nog&lt;/p&gt;
+
+
+
+
+   &lt;blockquote class=&quot;blockquote&quot;&gt;
+  Contact: Voor meer info en eventuele vragen kunt u contact opnemen met de organisatie:
+      Jeroen Nachbar (campingplaats 64), Martijn Dekker (campingplaats 67)
+  &lt;/blockquote&gt;</content><author><name>M.Dekker</name></author><summary type="html">Beste wedstrijdzeiler,</summary></entry><entry><title type="html">Brekkenrace 2021</title><link href="https://www.brekkenrace.nl/Brekkenrace2021.html" rel="alternate" type="text/html" title="Brekkenrace 2021" /><published>2021-07-12T14:00:00+02:00</published><updated>2021-07-12T14:00:00+02:00</updated><id>https://www.brekkenrace.nl/Brekkenrace2021</id><content type="html" xml:base="https://www.brekkenrace.nl/Brekkenrace2021.html">&lt;h2 class=&quot;section-heading&quot;&gt;
   Beste wedstrijdzeiler,
 &lt;/h2&gt;
 
@@ -22,7 +50,7 @@ We hopen dat er volgend jaar een andere situatie is en dan gaan we zeker weer ee
    &lt;blockquote class=&quot;blockquote&quot;&gt;
   Contact: Voor meer info en eventuele vragen kunt u contact opnemen met de organisatie:
       Jeroen Nachbar (campingplaats 64), Martijn Dekker (campingplaats 67)
-  &lt;/blockquote&gt;</content><author><name>M.Dekker</name></author><summary type="html">Beste wedstrijdzeiler,</summary></entry><entry><title type="html">Uitslagen 2020</title><link href="http://localhost:4000/uitslagen2020.html" rel="alternate" type="text/html" title="Uitslagen 2020" /><published>2020-08-17T13:30:00+02:00</published><updated>2020-08-17T13:30:00+02:00</updated><id>http://localhost:4000/uitslagen2020</id><content type="html" xml:base="http://localhost:4000/uitslagen2020.html">&lt;h2 class=&quot;section-heading&quot;&gt; Optimist&lt;/h2&gt;
+  &lt;/blockquote&gt;</content><author><name>M.Dekker</name></author><summary type="html">Beste wedstrijdzeiler,</summary></entry><entry><title type="html">Uitslagen 2020</title><link href="https://www.brekkenrace.nl/uitslagen2020.html" rel="alternate" type="text/html" title="Uitslagen 2020" /><published>2020-08-17T13:30:00+02:00</published><updated>2020-08-17T13:30:00+02:00</updated><id>https://www.brekkenrace.nl/uitslagen2020</id><content type="html" xml:base="https://www.brekkenrace.nl/uitslagen2020.html">&lt;h2 class=&quot;section-heading&quot;&gt; Optimist&lt;/h2&gt;
 &lt;table&gt;
 	&lt;tr&gt;
 		&lt;th&gt;Naam schipper&lt;/th&gt;
@@ -407,7 +435,7 @@ We hopen dat er volgend jaar een andere situatie is en dan gaan we zeker weer ee
 	&lt;td&gt;16&lt;/td&gt;
 	&lt;td&gt;50&lt;/td&gt;
 &lt;/tr&gt;
-&lt;/table&gt;</content><author><name>M.Dekker</name></author><summary type="html">Optimist Naam schipper Race 1 Race 2 Race 3 Eindscore Seppe van Solkema 1 2 1 4 Harmen Hoekstra 3 3 4 10 Jouke Pricker 5 4 2 11 Toon 7 1 3 11 Jikke Schraffordt 2 5 7 14 Meike Sutorius 6 6 5 17 Roosmarijn Dekker 4 8 8 20 Jayden desVignes 9 7 6 22 Jelle Monderman 8 9 9 26</summary></entry><entry><title type="html">Brekkenrace 2020</title><link href="http://localhost:4000/brekkenrace.html" rel="alternate" type="text/html" title="Brekkenrace 2020" /><published>2020-07-27T00:45:13+02:00</published><updated>2020-07-27T00:45:13+02:00</updated><id>http://localhost:4000/brekkenrace</id><content type="html" xml:base="http://localhost:4000/brekkenrace.html">&lt;h2 class=&quot;section-heading&quot;&gt;
+&lt;/table&gt;</content><author><name>M.Dekker</name></author><summary type="html">Optimist Naam schipper Race 1 Race 2 Race 3 Eindscore Seppe van Solkema 1 2 1 4 Harmen Hoekstra 3 3 4 10 Jouke Pricker 5 4 2 11 Toon 7 1 3 11 Jikke Schraffordt 2 5 7 14 Meike Sutorius 6 6 5 17 Roosmarijn Dekker 4 8 8 20 Jayden desVignes 9 7 6 22 Jelle Monderman 8 9 9 26</summary></entry><entry><title type="html">Brekkenrace 2020</title><link href="https://www.brekkenrace.nl/brekkenrace.html" rel="alternate" type="text/html" title="Brekkenrace 2020" /><published>2020-07-27T00:45:13+02:00</published><updated>2020-07-27T00:45:13+02:00</updated><id>https://www.brekkenrace.nl/brekkenrace</id><content type="html" xml:base="https://www.brekkenrace.nl/brekkenrace.html">&lt;h2 class=&quot;section-heading&quot;&gt;
   Beste wedstrijdzeiler,
 &lt;/h2&gt;
 
@@ -670,7 +698,7 @@ openklasse zijn € 5,= per boot. Voor de optimistenklasse zijn de kosten € 2,
    &lt;blockquote class=&quot;blockquote&quot;&gt;
   Contact: Voor meer info en eventuele vragen kunt u contact opnemen met de organisatie:
       Jeroen Nachbar (campingplaats 64), Martijn Dekker (campingplaats 67)
-  &lt;/blockquote&gt;</content><author><name>M.Dekker</name></author><summary type="html">Beste wedstrijdzeiler,</summary></entry><entry><title type="html">Verslagen</title><link href="http://localhost:4000/oudeverslagen.html" rel="alternate" type="text/html" title="Verslagen" /><published>2020-01-01T12:30:00+01:00</published><updated>2020-01-01T12:30:00+01:00</updated><id>http://localhost:4000/oudeverslagen</id><content type="html" xml:base="http://localhost:4000/oudeverslagen.html">&lt;article class=&quot;markdown-body&quot;&gt;&lt;h2 id=&quot;oude-verslagen&quot;&gt;Oude verslagen&lt;a class=&quot;headerlink&quot; href=&quot;#oude-verslagen&quot; title=&quot;Permanent link&quot;&gt; &lt;/a&gt;&lt;/h2&gt;
+  &lt;/blockquote&gt;</content><author><name>M.Dekker</name></author><summary type="html">Beste wedstrijdzeiler,</summary></entry><entry><title type="html">Verslagen</title><link href="https://www.brekkenrace.nl/oudeverslagen.html" rel="alternate" type="text/html" title="Verslagen" /><published>2020-01-01T12:30:00+01:00</published><updated>2020-01-01T12:30:00+01:00</updated><id>https://www.brekkenrace.nl/oudeverslagen</id><content type="html" xml:base="https://www.brekkenrace.nl/oudeverslagen.html">&lt;article class=&quot;markdown-body&quot;&gt;&lt;h2 id=&quot;oude-verslagen&quot;&gt;Oude verslagen&lt;a class=&quot;headerlink&quot; href=&quot;#oude-verslagen&quot; title=&quot;Permanent link&quot;&gt; &lt;/a&gt;&lt;/h2&gt;
 &lt;h3 id=&quot;verslag-brekkenrace-2010&quot;&gt;Verslag Brekkenrace 2010&lt;a class=&quot;headerlink&quot; href=&quot;#verslag-brekkenrace-2010&quot; title=&quot;Permanent link&quot;&gt; &lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Zaterdag 14 augustus vond de jaarlijkse Brekkenrace weer plaats op de Oudegaaster Brekken. De wedstrijd wordt georganiseerd vanaf camping de Bearshoeke.&lt;/p&gt;
 &lt;p&gt;Bij de inschrijving op vrijdagavond bleek de professionalisering toegeslagen te hebben. Een batterij aan laptops zorgde voor een efficiënte inschrijving van alle deelnemers. Voor de wedstrijd hadden zich uiteindelijk 14 voor de optimistenklasse, 10 voor de jeugdklasse en 35 voor de open klasse ingeschreven.&lt;/p&gt;
