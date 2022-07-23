@@ -10,7 +10,7 @@ permalink:          none
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
-theme: jekyll-theme-clean-blog
+theme: jekyll-theme-tactile
 
 # Build settings
 markdown:           kramdown
