@@ -3,6 +3,8 @@ import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+import { Image } from 'astro:assets';
+import myImage from '../../public/logo.png';
 ---
 
 <!doctype html>
@@ -13,7 +15,7 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 	<body>
 		<Header />
 		<main>
-			<img src="/public/logo.png" alt="">
+			<Image src={myImage} alt="logo brekkenrace." />
 			<h1>Hoi Brekkenracer...</h1>
 			<h3 class="section-heading">3 Augustus 2024 is het weer zover</h2>
 <p>De brekkenrace wordt bij voorkeur georganiseerd op de 1ste zaterdag in Augustus.</p>
