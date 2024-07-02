@@ -1,0 +1,58 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+
+		<div class="content ">
+            <iframe
+            class="my"
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/O29ENwr-O04"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen></iframe>
+    <div class="my">
+        <p>Op één van de mooiste plekjes in het Friese merengebied ligt Camping De Bearshoeke,
+            direct gelegen aan de Oudegaaster Brekken. Het water waarop de brekkenrace wordt gevaren. </p>
+    
+        <p>De Oudegaaster Brekken hebben een open verbinding,
+            zonder bruggen, met het Heegermeer en de Fluessen.</p>
+    
+        <p>De unieke ligging
+            maakt de camping uitermate geschikt voor de échte watersportliefhebber.</p>
+    
+        <div class="extraLogo">
+            <img src="logoBearshoeke.png" alt="logo bearshoeke">
+            <h5 id="campingNaam">Camping de Bearshoeke</h5>
+        </div>
+    
+        <a href="http://www.bearshoeke.nl">Ga naar de website van Camping De Bearshoeke voor meer informatie </a>
+    </div>
+        </div>
+
+		<Footer />
+	</body>
+</html>
+
+<style>
+	.content {
+		margin: 0 auto;
+		max-width: 800px;
+		padding: 0 1rem;
+	}
+    .my {
+        margin: 24px 0px;
+    }
+</style>
