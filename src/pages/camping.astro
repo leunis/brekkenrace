@@ -3,6 +3,8 @@ import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+import { Image } from 'astro:assets';
+import myImage from '../public/logoBearshoeke.png';
 ---
 
 <!doctype html>
@@ -34,7 +36,7 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
             maakt de camping uitermate geschikt voor de échte watersportliefhebber.</p>
     
         <div class="extraLogo">
-            <img src="logoBearshoeke.png" alt="logo bearshoeke">
+            <Image src={myImage} alt="logo bearshoeke." />
             <h5 id="campingNaam">Camping de Bearshoeke</h5>
         </div>
     
