@@ -1,20 +1,10 @@
 ---
-import BaseHead from '../components/BaseHead.astro';
-import Header from '../components/Header.astro';
-import Footer from '../components/Footer.astro';
-import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+import DefaultPage from "../layouts/DefaultPage.astro";
 ---
 
+<DefaultPage>
 
-<!doctype html>
-<html lang="en">
-	<head>
-		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
-	</head>
-	<body>
-		<Header />
-
-		<div class="content">
+<div class="content">
 <h2 class="section-heading">Rating Brekkenrace</h2>
 
 <h4>Het principe is simpel en als volgt.</h4> 
@@ -212,6 +202,8 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 
 <p>Boten die met een spinnaker mogen varen, maar dat tijdens de Brekkenrace niet doen, worden gecompenseerd in de handicap.</p> 
 </div>
+
+</DefaultPage>
 
 <style>
 	.content {

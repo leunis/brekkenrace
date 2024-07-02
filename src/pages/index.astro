@@ -1,37 +1,39 @@
 ---
-import BaseHead from '../components/BaseHead.astro';
-import Header from '../components/Header.astro';
-import Footer from '../components/Footer.astro';
-import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
-import { Image } from 'astro:assets';
-import myImage from '../../public/logo.png';
+import DefaultPage from "../layouts/DefaultPage.astro";
+import { Image } from "astro:assets";
+import myImage from "../../public/logo.png";
 ---
 
-<!doctype html>
-<html lang="en">
-	<head>
-		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
-	</head>
-	<body>
-		<Header />
-		<main>
-			<Image src={myImage} alt="logo brekkenrace." />
-			<h1>Hoi Brekkenracer...</h1>
-			<h3 class="section-heading">3 Augustus 2024 is het weer zover</h2>
-<p>De brekkenrace wordt bij voorkeur georganiseerd op de 1ste zaterdag in Augustus.</p>
+<DefaultPage>
+	<Image src={myImage} alt="logo brekkenrace." />
+	<h1>Hoi Brekkenracer...</h1>
+	<h3 class="section-heading">3 Augustus 2024 is het weer zover</h3>
+	<p>
+	  De brekkenrace wordt bij voorkeur georganiseerd op de 1ste zaterdag in
+	  Augustus.
+	</p>
+	
+	<a href="/blog/brekkenrace2024">bekijk de pagina voor brekkenrace 2024</a>
+	
+	<p>
+	  Het doel is om zoveel mogelijk zeilers kennis te laten maken met
+	  wedstrijdzeilen en een gezellige dag te organiseren voor alle gasten van de
+	  camping.
+	</p>
+	
+	<p>
+	  Het is overigens niet vanzelfsprekend dat de Brekkenrace ook daadwerkelijk
+	  plaats vindt, aangezien er altijd meerdere vrijwilligers nodig zijn om een
+	  zeilwedstrijd mogelijk te maken en het weer wel moet meewerken.
+	</p>
+	
+	<p>
+	  De samenstelling van de organisatie wisselt en momenteel is deze in handen van
+	  Maarten
+	</p>
+	
+	<p>
+	  Je weet of de brekkenrace doorgaat door deze website in de gaten te houden.
+	</p>
+</DefaultPage>
 
-<a href="/blog/brekkenrace2024">bekijk de pagina voor brekkenrace 2024</a>
-
-<p>Het doel is om zoveel mogelijk zeilers kennis te laten maken met wedstrijdzeilen en een gezellige dag te organiseren
-  voor alle gasten van de camping.</p>
-
-<p>Het is overigens niet vanzelfsprekend dat de Brekkenrace ook daadwerkelijk plaats vindt, aangezien er altijd meerdere
-  vrijwilligers nodig zijn om een zeilwedstrijd mogelijk te maken en het weer wel moet meewerken.</p>
-
-<p>De samenstelling van de organisatie wisselt en momenteel is deze in handen van Maarten</p>
-
-<p>Je weet of de brekkenrace doorgaat door deze website in de gaten te houden.</p>
-		</main>
-		<Footer />
-	</body>
-</html>
