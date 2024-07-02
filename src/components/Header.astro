@@ -5,8 +5,7 @@ import { SITE_TITLE } from '../consts';
 
 <header>
 	<nav>
-		<h2 class="">
-			
+		<h2 class="mt">
 			<a href="/">{SITE_TITLE}</a>
 		</h2>
 		<div class="internal-links small">
@@ -27,13 +26,26 @@ import { SITE_TITLE } from '../consts';
   body {
 	font-size: 16px;
   }
+  
+  nav {
+		display: block;
+	}
+
+	.mt {
+		padding-top: 1em;
+	}
 }
 /* einde media query */
 
-
-
-
-
+/* browser window is 856px ogroter */
+@media only screen and (min-width: 856px) {
+	nav {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+	}
+}
+/* einde media query */
 
 
 
@@ -52,16 +64,9 @@ import { SITE_TITLE } from '../consts';
 	h2 a.active {
 		text-decoration: none;
 	}
-	nav {
-		display: flex;
-		align-items: center;
-		justify-content: space-between;
-	}
 
-	.navnav {
-		display: flex;
-		align-items: center;
-	}
+	
+
 
 	nav a {
 		padding: 1em 0.5em;
