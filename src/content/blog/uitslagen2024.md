@@ -2,7 +2,7 @@
 title: "Uitslagen Brekkenrace 2024"
 description: "3 aug 2024"
 pubDate: "Aug 4 2024"
-heroImage: "/02.jpg"
+heroImage: "/05.png"
 ---
 
 <h2 class="section-heading"> Eenmansboten</h2>
