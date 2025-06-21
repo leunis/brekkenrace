@@ -2,7 +2,7 @@
 title: "Brekkenrace 2025"
 description: "brekkenracen op 2 aug 2024"
 pubDate: "Jun 21 2025"
-heroImage: "/05.jpg"
+heroImage: "/05.png"
 ---
 
 <p>Dit jaar wordt de Brekkenrace weer georganiseerd.</p>
@@ -19,7 +19,7 @@ heroImage: "/05.jpg"
   </li>
 </ul>
 
-<h3 class="red">!! Zwemvest verplicht voor iedereen !!</h1>
+<h4 class="red">!! Zwemvest verplicht voor iedereen !!</h4>
 <p>Deelnemers die zonder zwemvest deelnemen worden automatisch gediskwalificeerd.</p>
  
  <p>
