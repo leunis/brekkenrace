@@ -19,10 +19,12 @@ heroImage: "/03.jpg"
         <li class="race-class">
           <span class="class-icon">⛵</span>
           Eenmansboot (junior + senior) 
+         <a href="https://workserver.nl/klasse/58/subscribe">Voorlopig inschrijven </a>
         </li>
         <li class="race-class">
           <span class="class-icon">🚤</span>
           Meermansboot  
+          <a href="https://workserver.nl/klasse/59/subscribe">Voorlopig inschrijven</a>
         </li>
       </ul>
     </div>
@@ -46,7 +48,7 @@ heroImage: "/03.jpg"
   </div>
 
   <div class="schedule-section">
-    <h3>🗓️ Voorlopig tijdschema brekkenrace 2025</h3>
+    <h3>🗓️ Voorlopig tijdschema </h3>
     <p class="schedule-note">Onderstaand schema kan op de dag zelf nog gewijzigd worden i.v.m. verwachte wind/weer omstandigheden.</p>
 
   <div class="schedule-day">
