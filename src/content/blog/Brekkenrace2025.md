@@ -17,14 +17,16 @@ heroImage: "/03.jpg"
  <p>We gaan (waarschijnlijk) zeilen in de volgende klassen:</p>
       <ul class="race-classes">
         <li class="race-class">
-          <span class="class-icon">⛵</span>
-          Eenmansboot (junior + senior) 
-         <a href="https://workserver.nl/klasse/58/subscribe">Voorlopig inschrijven </a>
+          <div class="class-content">
+            <span class="class-name">Eenmansboot (junior + senior)</span>
+            <a href="https://workserver.nl/klasse/58/subscribe" class="subscribe-link">Voorlopig inschrijven</a>
+          </div>
         </li>
         <li class="race-class">
-          <span class="class-icon">🚤</span>
-          Meermansboot  
-          <a href="https://workserver.nl/klasse/59/subscribe">Voorlopig inschrijven</a>
+         <div class="class-content">
+            <div   class="class-name">Meermansboot</div>
+            <div><a href="https://workserver.nl/klasse/59/subscribe" class="subscribe-link">Voorlopig inschrijven</a></div>
+          </div>
         </li>
       </ul>
     </div>
@@ -58,7 +60,7 @@ heroImage: "/03.jpg"
           <div class="time-cell">19:30 - 20:30</div>
           <div class="event-cell">
             <span class="event-icon">📝</span>
-            Inschrijven brekkenrace in Fuke
+            <span class="event-text">Inschrijven brekkenrace in Fuke</span>
           </div>
         </div>
       </div>
@@ -71,42 +73,42 @@ heroImage: "/03.jpg"
           <div class="time-cell">08:45</div>
           <div class="event-cell">
             <span class="event-icon">👥</span>
-            Pallaver op de punt van de haven of bij Fuke
+            <span class="event-text">Pallaver op de punt van de haven of bij Fuke</span>
           </div>
         </div>
         <div class="schedule-row highlight">
           <div class="time-cell">10:00</div>
           <div class="event-cell">
             <span class="event-icon">🏁</span>
-            Start Eenmansboten
+            <span class="event-text">Start Eenmansboten</span>
           </div>
         </div>
         <div class="schedule-row">
           <div class="time-cell">12:00</div>
           <div class="event-cell">
             <span class="event-icon">🍔</span>
-            Start Lunch: Broodje hamburger kopen bij de Fuke
+            <span class="event-text">Start Lunch: Broodje hamburger kopen bij de Fuke</span>
           </div>
         </div>
         <div class="schedule-row highlight">
           <div class="time-cell">13:00</div>
           <div class="event-cell">
             <span class="event-icon">🏁</span>
-            Start Meermansboten
+            <span class="event-text">Start Meermansboten</span>
           </div>
         </div>
         <div class="schedule-row">
           <div class="time-cell">17:00</div>
           <div class="event-cell">
             <span class="event-icon">🍻</span>
-            Borrel en prijsuitreiking in de Fuke
+            <span class="event-text">Borrel en prijsuitreiking in de Fuke</span>
           </div>
         </div>
         <div class="schedule-row special">
           <div class="time-cell">18:00</div>
           <div class="event-cell">
             <span class="event-icon">🏆</span>
-            Prijsuitreiking
+            <span class="event-text">Prijsuitreiking</span>
           </div>
         </div>
       </div>
@@ -137,6 +139,7 @@ heroImage: "/03.jpg"
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   line-height: 1.6;
   color: #333;
+  padding: 0 1rem;
 }
 
 .intro-section {
@@ -188,9 +191,9 @@ heroImage: "/03.jpg"
 
 .race-class {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   gap: 0.75rem;
-  padding: 0.75rem;
+  padding: 1rem;
   margin: 0.5rem 0;
   background: white;
   border-radius: 8px;
@@ -199,6 +202,38 @@ heroImage: "/03.jpg"
 
 .class-icon {
   font-size: 1.2rem;
+  flex-shrink: 0;
+  margin-top: 0.2rem;
+}
+
+.class-content {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  flex: 1;
+}
+
+.class-name {
+  font-weight: 500;
+}
+
+.subscribe-link {
+  color: #2c5aa0;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.9rem;
+  padding: 0.5rem 1rem;
+  background: #f0f9ff;
+  border-radius: 6px;
+  border: 1px solid #2c5aa0;
+  text-align: center;
+  transition: all 0.2s;
+  align-self: flex-start;
+}
+
+.subscribe-link:hover {
+  background: #2c5aa0;
+  color: white;
 }
 
 .important-info {
@@ -289,9 +324,10 @@ heroImage: "/03.jpg"
 
 .schedule-row {
   display: grid;
-  grid-template-columns: 150px 1fr;
+  grid-template-columns: 120px 1fr;
   border-bottom: 1px solid #e5e7eb;
   transition: background-color 0.2s;
+  min-height: 60px;
 }
 
 .schedule-row:hover {
@@ -307,13 +343,16 @@ heroImage: "/03.jpg"
 }
 
 .time-cell {
-  padding: 1rem;
+  padding: 1rem 0.75rem;
   font-weight: 600;
   color: #374151;
   background: #f9fafb;
   border-right: 1px solid #e5e7eb;
   display: flex;
   align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 0.9rem;
 }
 
 .event-cell {
@@ -325,6 +364,11 @@ heroImage: "/03.jpg"
 
 .event-icon {
   font-size: 1.1rem;
+  flex-shrink: 0;
+}
+
+.event-text {
+  flex: 1;
 }
 
 .contact-section {
@@ -355,32 +399,63 @@ heroImage: "/03.jpg"
   border-radius: 6px;
 }
 
-/* Responsive design */
+/* Mobile optimizations */
 @media (max-width: 768px) {
   .race-content {
-    padding: 0 1rem;
+    padding: 0 0.75rem;
   }
   
-  .schedule-row {
-    grid-template-columns: 1fr;
+  .intro-text {
+    font-size: 1.1rem;
   }
   
-  .time-cell {
-    border-right: none;
-    border-bottom: 1px solid #e5e7eb;
-    background: #1e40af;
-    color: white;
-    justify-content: center;
+  .race-info {
+    padding: 1rem;
   }
   
   .date-highlight {
     flex-direction: column;
     text-align: center;
+    gap: 0.5rem;
+    padding: 0.75rem;
+  }
+  
+  .date-value {
+    font-size: 1.1rem;
+  }
+  
+  .race-class {
+    padding: 0.75rem;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+  
+  .class-content {
+    width: 100%;
+  }
+  
+  .subscribe-link {
+    align-self: stretch;
+    text-align: center;
   }
   
   .safety-warning {
     flex-direction: column;
+    gap: 0.75rem;
+    padding: 1rem;
+  }
+  
+  .warning-icon {
+    align-self: center;
+  }
+  
+  .warning-content {
     text-align: center;
+  }
+  
+  .info-card {
+    padding: 1rem;
   }
 }
 </style>
