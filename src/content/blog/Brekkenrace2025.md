@@ -35,7 +35,7 @@ heroImage: "/03.jpg"
       <p>Boven de <strong>18 knopen wind</strong> gaan we niet starten tijdens de Brekkenrace. We laten je op deze pagina en op het bord bij de Fuke weten als dit het geval is.</p>
     </div>
 
-    <div class="safety-warning">
+  <div class="safety-warning">
       <div class="warning-icon">⚠️</div>
       <div class="warning-content">
         <h4>Zwemvest verplicht voor iedereen</h4>
@@ -49,7 +49,7 @@ heroImage: "/03.jpg"
     <h3>🗓️ Voorlopig tijdschema brekkenrace 2025</h3>
     <p class="schedule-note">Onderstaand schema kan op de dag zelf nog gewijzigd worden i.v.m. verwachte wind/weer omstandigheden.</p>
 
-    <div class="schedule-day">
+  <div class="schedule-day">
       <h4 class="day-header">Vrijdag 1 augustus</h4>
       <div class="schedule-table">
         <div class="schedule-row">
@@ -62,7 +62,7 @@ heroImage: "/03.jpg"
       </div>
     </div>
 
-    <div class="schedule-day">
+  <div class="schedule-day">
       <h4 class="day-header">Zaterdag 2 augustus</h4>
       <div class="schedule-table">
         <div class="schedule-row">
