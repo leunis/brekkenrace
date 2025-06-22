@@ -155,7 +155,7 @@ heroImage: "/03.jpg"
 
 .race-info {
   background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
-  padding: 1.5rem;
+  padding: 0.5rem;
   border-radius: 12px;
   border-left: 4px solid #2c5aa0;
 }
