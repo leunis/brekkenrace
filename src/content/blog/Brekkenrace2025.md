@@ -104,13 +104,6 @@ heroImage: "/03.jpg"
             <span class="event-text">Borrel en prijsuitreiking in de Fuke</span>
           </div>
         </div>
-        <div class="schedule-row special">
-          <div class="time-cell">18:00</div>
-          <div class="event-cell">
-            <span class="event-icon">🏆</span>
-            <span class="event-text">Prijsuitreiking</span>
-          </div>
-        </div>
       </div>
     </div>
 
