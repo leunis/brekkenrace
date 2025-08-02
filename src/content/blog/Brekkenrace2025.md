@@ -70,14 +70,14 @@ heroImage: "/03.jpg"
       <h4 class="day-header">Zaterdag 2 augustus</h4>
       <div class="schedule-table">
         <div class="schedule-row">
-          <div class="time-cell">08:45</div>
+          <div class="time-cell">09:30</div>
           <div class="event-cell">
             <span class="event-icon">👥</span>
             <span class="event-text">Pallaver op de punt van de haven of bij Fuke</span>
           </div>
         </div>
         <div class="schedule-row highlight">
-          <div class="time-cell">10:00</div>
+          <div class="time-cell">11:00</div>
           <div class="event-cell">
             <span class="event-icon">🏁</span>
             <span class="event-text">Start Eenmansboten</span>
