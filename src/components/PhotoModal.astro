@@ -1,0 +1,179 @@
+---
+// PhotoModal component
+---
+
+<div id="photo-modal" class="modal">
+	<div class="modal-content">
+		<span class="close">&times;</span>
+		<img id="modal-image" src="" alt="" />
+		<div class="modal-controls">
+			<button id="download-btn" class="download-button">
+				<svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+					<path d="M21 15V19C21 19.5304 20.7893 20.0391 20.4142 20.4142C20.0391 20.7893 19.5304 21 19 21H5C4.46957 21 3.96086 20.7893 3.58579 20.4142C3.21071 20.0391 3 19.5304 3 19V15" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+					<path d="M7 10L12 15L17 10" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+					<path d="M12 15V3" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+				</svg>
+				Download
+			</button>
+		</div>
+	</div>
+</div>
+
+<script>
+	// Modal functionality
+	const modal = document.getElementById('photo-modal');
+	const modalImg = document.getElementById('modal-image');
+	const closeBtn = document.querySelector('.close');
+	const downloadBtn = document.getElementById('download-btn');
+	let currentImageSrc = '';
+	let currentImageName = '';
+
+	// Function to open modal
+	window.openPhotoModal = function(thumbnailSrc, fullSrc, imageName) {
+		modal.style.display = 'block';
+		modalImg.src = fullSrc;
+		modalImg.alt = imageName;
+		currentImageSrc = fullSrc;
+		currentImageName = imageName;
+		document.body.style.overflow = 'hidden'; // Prevent background scrolling
+	};
+
+	// Close modal when clicking X
+	closeBtn.onclick = function() {
+		modal.style.display = 'none';
+		document.body.style.overflow = 'auto';
+	};
+
+	// Close modal when clicking outside the image
+	modal.onclick = function(event) {
+		if (event.target === modal) {
+			modal.style.display = 'none';
+			document.body.style.overflow = 'auto';
+		}
+	};
+
+	// Download functionality
+	downloadBtn.onclick = function() {
+		const link = document.createElement('a');
+		link.href = currentImageSrc;
+		link.download = currentImageName;
+		document.body.appendChild(link);
+		link.click();
+		document.body.removeChild(link);
+	};
+
+	// Close modal with Escape key
+	document.addEventListener('keydown', function(event) {
+		if (event.key === 'Escape' && modal.style.display === 'block') {
+			modal.style.display = 'none';
+			document.body.style.overflow = 'auto';
+		}
+	});
+</script>
+
+<style>
+	.modal {
+		display: none;
+		position: fixed;
+		z-index: 1000;
+		left: 0;
+		top: 0;
+		width: 100%;
+		height: 100%;
+		background-color: rgba(0, 0, 0, 0.9);
+		animation: fadeIn 0.3s ease;
+	}
+
+	@keyframes fadeIn {
+		from { opacity: 0; }
+		to { opacity: 1; }
+	}
+
+	.modal-content {
+		position: relative;
+		margin: auto;
+		padding: 20px;
+		width: 90%;
+		max-width: 1200px;
+		height: 100vh;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+	}
+
+	.close {
+		position: absolute;
+		top: 20px;
+		right: 35px;
+		color: white;
+		font-size: 40px;
+		font-weight: bold;
+		cursor: pointer;
+		z-index: 1001;
+		transition: color 0.3s ease;
+	}
+
+	.close:hover,
+	.close:focus {
+		color: #ccc;
+	}
+
+	#modal-image {
+		max-width: 100%;
+		max-height: 80vh;
+		object-fit: contain;
+		border-radius: 8px;
+		box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+	}
+
+	.modal-controls {
+		margin-top: 20px;
+		display: flex;
+		gap: 10px;
+	}
+
+	.download-button {
+		background: var(--accent);
+		color: white;
+		border: none;
+		padding: 12px 24px;
+		border-radius: 6px;
+		cursor: pointer;
+		font-size: 16px;
+		display: flex;
+		align-items: center;
+		gap: 8px;
+		transition: background-color 0.3s ease, transform 0.2s ease;
+	}
+
+	.download-button:hover {
+		background: var(--accent-dark, #1a5490);
+		transform: translateY(-2px);
+	}
+
+	.download-button:active {
+		transform: translateY(0);
+	}
+
+	@media (max-width: 768px) {
+		.modal-content {
+			padding: 10px;
+		}
+
+		.close {
+			top: 10px;
+			right: 20px;
+			font-size: 30px;
+		}
+
+		#modal-image {
+			max-height: 70vh;
+		}
+
+		.download-button {
+			padding: 10px 20px;
+			font-size: 14px;
+		}
+	}
+</style>
