@@ -2,7 +2,7 @@
 title: "Brekkenrace 2024"
 description: "brekkenracen op 3 aug 2024"
 pubDate: "Jul 15 2024"
-heroImage: "/04.jpg"
+heroImage: "/fotos/2025/Brekkenrace2025-127.jpg"
 ---
 
 <p>Dit jaar wordt de Brekkenrace weer georganiseerd.</p>

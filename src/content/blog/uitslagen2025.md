@@ -2,7 +2,7 @@
 title: "Uitslagen Brekkenrace 2025"
 description: "15 aug 2025"
 pubDate: "Aug 15 2025"
-heroImage: "/fotos/2025/Brekkenrace2025-134.jpg"
+heroImage: "/fotos/2025/Brekkenrace2025-117.jpg"
 ---
 
 <h2 class="section-heading"> Eenmansboten</h2>
