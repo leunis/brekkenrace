@@ -30,7 +30,7 @@ heroImage: "/fotos/2025/Brekkenrace2025-117.jpg"
 		<td class='tableCell' align="center" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;totaal&quot;}"><b>rank</font></b></td>
 	</tr>
 	<tr>
-		<td class='tableCell' height="40" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;valk, jan meindert&quot;}">valk, jan meindert</font></td>
+		<td class='tableCell' height="40" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;van der Valk, Jan Meindert&quot;}">van der Valk, Jan Meindert</font></td>
 		<td class='tableCell' align="center" sdval="1" sdnum="1033;">1</font></td>
 		<td class='tableCell' align="center" sdval="1" sdnum="1033;">1</font></td>
 		<td class='tableCell' align="center" sdval="1" sdnum="1033;">1</font></td>
@@ -128,7 +128,7 @@ heroImage: "/fotos/2025/Brekkenrace2025-117.jpg"
 		<td class='tableCell' align="center" sdval="1" sdnum="1033;"><b>1</font></b></td>
 	</tr>
 	<tr>
-		<td class='tableCell' height="23" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;valk, Jan Meindert & Bente&quot;}">valk, Jan Meindert & Bente</font></td>
+		<td class='tableCell' height="23" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;van der Valk, Jan Meindert & Bente&quot;}">van der Valk, Jan Meindert & Bente</font></td>
 		<td class='tableCell' align="center" sdval="3" sdnum="1033;"><i>3</font></i></td>
 		<td class='tableCell' align="center" sdval="2" sdnum="1033;"><i>2</font></i></td>
 		<td class='tableCell' align="center" sdval="3" sdnum="1033;"><i>3</font></i></td>
