@@ -2,7 +2,7 @@
 title: "Brekkenrace 2026"
 description: "Terugblik op de Brekkenrace van 1 aug 2026"
 pubDate: "Jul 11 2026"
-heroImage: "/fotos/2025/Brekkenrace2025-32.jpg"
+heroImage: "/fotos/2026/winnaars2026.jpg"
 ---
 
 <div class="race-content">
@@ -15,7 +15,6 @@ heroImage: "/fotos/2025/Brekkenrace2025-32.jpg"
       <h4>🏆 Geslaagde dag</h4>
       <p>We hadden fantastisch weer en met een nieuwe formule voor de dag konden we dit jaar ook genieten van een wedstrijd op de suppers. Wij kijken terug op een geslaagde dag, en de winnaars voegen we binnenkort toe aan de website.</p>
     </div>
-
     <div class="info-card">
       <h4>🏄 Geen wind voor de surfers</h4>
       <p>Helaas liet de wind het dit jaar niet toe om ook iets voor de surfers te organiseren. Volgend jaar hopen we op wat meer wind.</p>
