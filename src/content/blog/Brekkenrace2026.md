@@ -13,7 +13,7 @@ heroImage: "/fotos/2026/winnaars2026.jpg"
   <div class="important-info">
     <div class="info-card">
       <h4>🏆 Geslaagde dag</h4>
-      <p>We hadden fantastisch weer en met een nieuwe formule voor de dag konden we dit jaar ook genieten van een wedstrijd op de suppers. Wij kijken terug op een geslaagde dag, en de winnaars voegen we binnenkort toe aan de website.</p>
+      <p>We hadden fantastisch weer en met een nieuwe formule voor de dag konden we dit jaar ook genieten van een wedstrijd op de suppers. Wij kijken terug op een geslaagde dag. <a href="/blog/uitslagen2026">bekijk de pagina voor de uitslagen van de brekkenrace 2026</a></p>
     </div>
     <div class="info-card">
       <h4>🏄 Geen wind voor de surfers</h4>
